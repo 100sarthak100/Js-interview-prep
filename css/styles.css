@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+}
+
+.heading1 {
+    color: blue;
+}
+
+#heading1Id {
+    text-decoration: line-through;
+}
